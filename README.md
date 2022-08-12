@@ -1,7 +1,7 @@
 ### Hello there
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=MingmingGuo)](https://github.com/MingmingGuo)
+[![github stats](https://github-readme-stats.vercel.app/api?username=MingmingGuo&show_icons=true&line_height=20&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=MingmingGuo&show_icons=true&line_height=20&show_icons=true&theme=midnight-purple)
 
 Nice to meet you!
 
