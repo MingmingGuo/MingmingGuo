@@ -2,7 +2,6 @@
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=MingmingGuo)](https://github.com/MingmingGuo)
-![Ming's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MingmingGuo&layout=compact&hide_border=true&langs_count=10)
 
 Nice to meet you!
 
