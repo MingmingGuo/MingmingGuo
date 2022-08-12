@@ -1,6 +1,8 @@
 ### Hello there
 
-[![Ming's github stats](https://github-readme-stats.vercel.app/api?username=MingmingGuo)](https://github.com/MingmingGuo/github-readme-stats)
+[![Ming's github stats](https://github-readme-stats.vercel.app/api?username=MingmingGuo)](https://github.com/MingmingGuo/github-readme-stats)  ![Ming's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MingmingGuo ID&layout=compact&hide_border=true&langs_count=10)
+
+
 
 Nice to meet you!
 
