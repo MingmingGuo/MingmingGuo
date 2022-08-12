@@ -2,7 +2,7 @@
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=MingmingGuo&show_icons=true&line_height=20&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=MingmingGuo&show_icons=true&line_height=20&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingmingGuo&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api/top-langs/?username=MingmingGuo&show_icons=true&layout=compact&theme=midnight-purple)
+![Ming's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MingmingGuo&layout=compact&hide_border=true&langs_count=10)
 
 Nice to meet you!
 
