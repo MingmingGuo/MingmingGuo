@@ -29,7 +29,7 @@ My name is Mingming Guo. My research interests are Computational Materials Scien
 
 I am interested in high-throughput computational screening approaches and machine learning to accelerate the catalytic materials discovery. And I will pursue the combination of theory and experiment to solve scientific problems. 
 
-You can look on my [**personal webpage**](www.guomm.top) for my academia experience, previous projects, and publications.
+You can look on my [**personal webpage**](https://www.guomm.top/) for my academia experience, previous projects, and publications.
 
 Have a great day to you.
 
