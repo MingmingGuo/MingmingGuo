@@ -12,7 +12,6 @@ You can look on my [**personal webpage**](http://www.guomm.top/) for my academia
 
 Have a great day to you.
 
-[![Ming's github stats](https://github-readme-stats.vercel.app/api?username=MingmingGuo)](https://github.com/MingmingGuo/github-readme-stats)
 <!-- [![github stats](https://github-readme-stats.vercel.app/api?username=quanghuy0497&show_icons=true&line_height=20&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=quanghuy0497&show_icons=true&line_height=20&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quanghuy0497&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api/top-langs/?username=quanghuy0497&show_icons=true&layout=compact&theme=midnight-purple) -->
