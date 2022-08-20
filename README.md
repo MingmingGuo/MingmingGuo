@@ -20,8 +20,5 @@ Have a great day to you.
 
 ![](https://komarev.com/ghpvc/?username=MingmingGuo)
 
-<a href="https://info.flagcounter.com/En7H"><img src="https://s11.flagcounter.com/map/En7H/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 <a href="https://clustrmaps.com/site/1bpy0"><img src="https://www.clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=lOxXu-muGwhQ1AUDtnfcrU8sTjz4RQeSdXkUMBupjt4&co=2d78ad&ct=ffffff"></a>
-
-<a href="https://clustrmaps.com/site/1bpy0"><img src="//www.clustrmaps.com/map_v2.png?d=lOxXu-muGwhQ1AUDtnfcrU8sTjz4RQeSdXkUMBupjt4&cl=ffffff"/></a>
