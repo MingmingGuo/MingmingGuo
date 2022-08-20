@@ -20,4 +20,4 @@ Have a great day to you.
 
 <a href="https://clustrmaps.com/site/1bpy0"><img src="https://www.clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=lOxXu-muGwhQ1AUDtnfcrU8sTjz4RQeSdXkUMBupjt4&co=2d78ad&ct=ffffff"></a>
 
-<a href="https://clustrmaps.com/site/1bpy0"><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=lOxXu-muGwhQ1AUDtnfcrU8sTjz4RQeSdXkUMBupjt4'/></a>
+<a href="https://clustrmaps.com/site/1bpy0"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=lOxXu-muGwhQ1AUDtnfcrU8sTjz4RQeSdXkUMBupjt4"/></a>
