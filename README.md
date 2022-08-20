@@ -18,4 +18,6 @@ Have a great day to you.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quanghuy0497&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api/top-langs/?username=quanghuy0497&show_icons=true&layout=compact&theme=midnight-purple) -->
 
 
+![](https://komarev.com/ghpvc/?username=MingmingGuo)
 
+<a href="https://info.flagcounter.com/En7H"><img src="https://s11.flagcounter.com/map/En7H/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
