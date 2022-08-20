@@ -7,6 +7,8 @@ Nice to meet you!
 
 My name is Mingming Guo. My research interests are Computational Materials Science , Molecular Dynamics Simulation(MD), DFT and Machine Learning in Materials Science. 
 
+I am looking for a Ph.D. candidate position. 
+
 I am interested in high-throughput computational screening approaches and machine learning to accelerate the catalytic materials discovery. And I will pursue the combination of theory and experiment to solve scientific problems. 
 
 You can look on my [**personal webpage**](http://www.guomm.top/) and  [**Google Schloar**](https://scholar.google.com/citations?user=zvkzYukAAAAJ&hl=en)  for my academia experience, previous projects, and publications.
