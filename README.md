@@ -18,7 +18,4 @@ Have a great day to you.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quanghuy0497&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api/top-langs/?username=quanghuy0497&show_icons=true&layout=compact&theme=midnight-purple) -->
 
 
-![](https://komarev.com/ghpvc/?username=MingmingGuo)
-
-
-<a href="https://clustrmaps.com/site/1bpy0"><img src="https://www.clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=lOxXu-muGwhQ1AUDtnfcrU8sTjz4RQeSdXkUMBupjt4&co=2d78ad&ct=ffffff"></a>
+<a href="https://clustrmaps.com/site/1bpy0"><img src="https://www.clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=lOxXu-muGwhQ1AUDtnfcrU8sTjz4RQeSdXkUMBupjt4&co=2d78ad&ct=ffffff"></a>
