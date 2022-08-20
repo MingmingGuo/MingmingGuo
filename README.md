@@ -19,4 +19,4 @@ Have a great day to you.
 
 
 
-<a href="https://info.flagcounter.com/czIA"><img src="https://s11.flagcounter.com/map/czIA/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_3/flags_0/" alt="Flag Counter" border="0"></a>
+[URL=https://info.flagcounter.com/xm2i][IMG]https://s11.flagcounter.com/map/xm2i/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/[/IMG][/URL]
