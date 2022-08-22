@@ -3,10 +3,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MingmingGuo&show_icons=true&theme=radical&show_icons=true&theme=radical">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MingmingGuo)  </div>
-<div align="center">  </div>
- <div align="center">  </div> 
-   <div align="center">  </div> 
-  
+<div align="center">  <img src="https://visitor-badge.glitch.me/badge?page_id=MingingGuo" /> </div>
+
 
 Nice to meet you!
 
