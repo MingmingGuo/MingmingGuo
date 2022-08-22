@@ -3,7 +3,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MingmingGuo&show_icons=true&theme=radical&show_icons=true&theme=radical">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MingmingGuo)  
 
-<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=quanghuy0497&show_icons=true&line_height=20&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=quanghuy0497&show_icons=true&line_height=20&show_icons=true&theme=midnight-purple)
+[![github stats](https://github-readme-stats.vercel.app/api?username=quanghuy0497&show_icons=true&line_height=20&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=quanghuy0497&show_icons=true&line_height=20&show_icons=true&theme=midnight-purple)
 
 
 Nice to meet you!
