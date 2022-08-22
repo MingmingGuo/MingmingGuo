@@ -2,7 +2,7 @@
 ![](https://indify.co/widgets/live/button/qOHY0mjFYGqtk12iWqWu)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MingmingGuo&show_icons=true&theme=radical&show_icons=true&theme=radical">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MingmingGuo)  
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=omwtbarca" /> </div>
+<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=omwtbarca" /> </div>
 
 Nice to meet you!
 
