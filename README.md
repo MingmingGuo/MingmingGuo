@@ -1,7 +1,7 @@
 ### Hello there
 ![](https://indify.co/widgets/live/button/qOHY0mjFYGqtk12iWqWu)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MingmingGuo&show_icons=true&theme=radical&show_icons=true&theme=radical">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MingmingGuo)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MingmingGuo) </div>
 
 
 
