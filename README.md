@@ -3,7 +3,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MingmingGuo&show_icons=true&theme=radical&show_icons=true&theme=radical">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MingmingGuo)  </div>
-<div align="left">  <img src="https://visitor-badge.glitch.me/badge?page_id=MingingGuo" /> </div>
+<!-- <div align="left">  <img src="https://visitor-badge.glitch.me/badge?page_id=MingingGuo" /> </div>   -->
 
 
 Nice to meet you!
@@ -24,4 +24,4 @@ Have a great day to you.
 
 <a href="https://clustrmaps.com/site/1bpy0"><img src="https://www.clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=lOxXu-muGwhQ1AUDtnfcrU8sTjz4RQeSdXkUMBupjt4"></a>   -->
 
-<a href="http://s11.flagcounter.com/more/swa"><img src="https://s11.flagcounter.com/map/swa/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<!--  <a href="http://s11.flagcounter.com/more/swa"><img src="https://s11.flagcounter.com/map/swa/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>   -->
