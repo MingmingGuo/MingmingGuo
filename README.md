@@ -4,7 +4,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MingmingGuo)  </div>
 
-![](https://visitor-badge.glitch.me/badge?page_id=MingmingGuo)
+
 
 Nice to meet you!
 
