@@ -1,6 +1,8 @@
 ### Hello there
 [![github stats](https://github-readme-stats.vercel.app/api?username=MingmingGuo&show_icons=true&theme=radical&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=MingmingGuo&show_icons=true&line_height=20&show_icons=true&theme=midnight-bule)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omwtbarca)
+
 Nice to meet you!
 
 My name is Mingming Guo. My research interests are Computational Materials Science , Molecular Dynamics Simulation(MD), DFT and Machine Learning in Materials Science. 
