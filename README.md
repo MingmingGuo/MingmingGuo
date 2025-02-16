@@ -27,3 +27,5 @@ Have a great day to you.
 <a href="https://clustrmaps.com/site/1bpy0"><img src="https://www.clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=lOxXu-muGwhQ1AUDtnfcrU8sTjz4RQeSdXkUMBupjt4"></a>   -->
 
  <a href="http://s11.flagcounter.com/more/swa"><img src="https://s11.flagcounter.com/map/swa/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a> 
+
+ <body> <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=878787&w=a&t=n&d=tYKrTleIzEG_M6tzoWmIiZKf5IJJPr5G469r5BeC5O0&co=feffff&cmn=ef1257&cmo=31aa60'></script> </body>
