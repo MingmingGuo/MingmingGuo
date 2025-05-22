@@ -1,15 +1,16 @@
 ### Hello there
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZLI-afk/ZLI-afk/359a62ce990f33e794f2b07b9f9e3680e3dac4bc/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZLI-afk/ZLI-afk/359a62ce990f33e794f2b07b9f9e3680e3dac4bc/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZLI-afk/ZLI-afk/359a62ce990f33e794f2b07b9f9e3680e3dac4bc/github-contribution-grid-snake-dark.svg">
+</picture>
+
 ![](https://indify.co/widgets/live/button/qOHY0mjFYGqtk12iWqWu)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MingmingGuo&show_icons=true&theme=radical&show_icons=true&theme=radical">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MingmingGuo)  </div>
  <div align="left">  <img src="https://visitor-badge.glitch.me/badge?page_id=MingingGuo" /> </div>  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZLI-afk/ZLI-afk/359a62ce990f33e794f2b07b9f9e3680e3dac4bc/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZLI-afk/ZLI-afk/359a62ce990f33e794f2b07b9f9e3680e3dac4bc/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZLI-afk/ZLI-afk/359a62ce990f33e794f2b07b9f9e3680e3dac4bc/github-contribution-grid-snake-dark.svg">
-</picture>
 
 Nice to meet you!
 
